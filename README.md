@@ -1,9 +1,7 @@
 # Login Information
 
-First Account
 email: `test@profen.com`, password: `123456`
 
-Second Account
 email: `user@profen.com`, password: `password`
 
 # Getting Started with Create React App
